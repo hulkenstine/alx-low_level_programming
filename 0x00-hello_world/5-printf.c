@@ -2,7 +2,7 @@
 /**
  * main - Entry point
  *
- * Return - Always 0 (success)
+ * Return -Ending with a value of 0
  *
  */
 
