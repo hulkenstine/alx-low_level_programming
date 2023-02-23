@@ -2,7 +2,9 @@
 /**
  * main - Entry point
  *
- * Return -Ending with a value of 0
+ * Description: 'the program's description'
+ *
+ * Return: Ending with a value of 0
  *
  */
 
